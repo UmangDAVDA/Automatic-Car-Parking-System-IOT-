@@ -4,6 +4,9 @@ It is a system to display the number of slots remaining for parking in the parki
 CASE:
 We display empty parking slots on the screen, so that we don’t need to physically visit the parking lot to check availability so it is very simple but effective way of using IOT in our daily life. 
 
+<img width="268" height="121" alt="image" src="https://github.com/user-attachments/assets/2898ef9a-90f2-44c1-9bc1-ac783d41f309" />
+
+
 https://www.tinkercad.com/things/6G0CebPEwgh-automatic-car-parking-lot?sharecode=iTBSUrrL1r6zgq1Vqof_96DsZNQ7vSO4Fzo6WRAvXD8
 
 
