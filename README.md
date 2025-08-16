@@ -6,7 +6,7 @@ We display empty parking slots on the screen, so that we don’t need to physica
 
 <img width="268" height="121" alt="image" src="https://github.com/user-attachments/assets/2898ef9a-90f2-44c1-9bc1-ac783d41f309" />
 
-                ⬇
+             🢃
 
 <img width="297" height="127" alt="image" src="https://github.com/user-attachments/assets/0006cfdb-e221-43f8-8f7f-58040cdf6a7d" />
 
